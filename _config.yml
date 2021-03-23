@@ -1,11 +1,11 @@
 # Site settings
-title: Monthly Research Seminars
-location: DSA Response
+title: DSA Visiting Fellowship
+# location: DSA Response
 safe: false
 description: "Information website."
 banner: dsa_banner.jpg
-banner_title: DSA Monthly Research Seminars
-baseurl: "/monthly-research-seminars"
+banner_title: DSA Visiting Fellowship
+baseurl: "/dsa-visiting-fellowship"
 url: "http://www.datascienceafrica.org"
 logo_url: img/logo.png
 # logo_url: svg/min/logo.svg
