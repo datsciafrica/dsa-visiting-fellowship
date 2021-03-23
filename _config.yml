@@ -1,12 +1,12 @@
 # Site settings
 title: DSA Visiting Fellowship
-# location: DSA Response
+location: DSA Response
 safe: false
 description: "Information website."
 banner: dsa_banner.jpg
 banner_title: DSA Visiting Fellowship
-baseurl: "dsa-visiting-fellowship"
-url: "http://www.datascienceafrica.org/"
+baseurl: "/dsa-visiting-fellowship"
+url: "http://www.datascienceafrica.org"
 logo_url: img/logo.png
 # logo_url: svg/min/logo.svg
 
